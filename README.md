@@ -17,10 +17,10 @@ Import the numpy module to use the built-in functions for calculation
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: S.M.SYED MOKTHIYAR
-#RegisterNumber:22006227
+#Developed by: kanimozhipannerselvam
+#RegisterNumber:22002752
 import numpy as np
-a=([[6,2,3],[3,1,1],[10,3,4]])
+a=([[2,1,1],[1,1,1],[1,-1,2]])
 sol=np.linalg.inv(a)
 print(sol)
 ```
